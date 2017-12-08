@@ -1,4 +1,6 @@
 # Issue
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tusharmath/webstorm-workspace.svg)](https://greenkeeper.io/)
 Webstorm doesn't properly import local packages from `node_modules` directory instead imports using relative paths.
 
 # Steps to reproduce
