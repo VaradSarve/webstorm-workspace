@@ -19,7 +19,7 @@ Webstorm doesn't properly import local packages from `node_modules` directory in
 
 The two imports should merge into one 
 ```ts
-import {boot, bear} from 'bar
+import {boot, bear} from 'bar'
 ``` 
 
 # Actual
